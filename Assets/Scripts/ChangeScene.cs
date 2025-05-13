@@ -1,0 +1,36 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class ChangeScene : MonoBehaviour
+{
+    public void TitleScrene()
+    {
+        SceneManager.LoadScene("TitleScrene");
+    }
+
+    public void ModeSelect()
+    {
+
+        SceneManager.LoadScene("ModeSelect");
+    }
+
+    public void StoryMode()
+    {
+
+        SceneManager.LoadScene("StoryMode");
+    }
+
+    public void FreeMode()
+    {
+
+        SceneManager.LoadScene("FreeMode");
+    }
+
+    public void NeptuneLevel()
+    {
+
+        SceneManager.LoadScene("NeptuneLevel");
+    }
+}
