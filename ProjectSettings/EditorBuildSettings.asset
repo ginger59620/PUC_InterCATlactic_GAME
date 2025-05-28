@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/ModeSelect.unity
     guid: 902f0ac770b868445a92426a04ea2bc8
   - enabled: 1
-    path: Assets/Scenes/StoryMode.unity
+    path: Assets/Scenes/Options.unity
     guid: 46b2fdbe26b335f4b8c3cdecbb5cf7ae
   - enabled: 1
     path: Assets/Scenes/NeptuneLevel.unity
@@ -20,4 +20,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FreeMode.unity
     guid: c017438d41fb06e4c88b7a17503bd10c
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: fdabe08f463d5d94a9a720434defcd7f
+  - enabled: 1
+    path: Assets/Scenes/MusicSelect.unity
+    guid: 317c5671061603a4eaf5eb9705e37b23
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
