@@ -6,11 +6,14 @@ using Melanchall.DryWetMidi.Interaction;
 using System.IO;
 using UnityEngine.Networking;
 using System;
+using UnityEngine.SceneManagement;
 
 public class SongManager : MonoBehaviour
 {
     public static SongManager Instance;
     public AudioSource audioSource;
+
+    public Lane[] lanes;
 
     public float songDelayInSeconds;
     public double marginOfError; //in segundos
@@ -49,7 +52,7 @@ public class SongManager : MonoBehaviour
         {
             yield return www.SendWebRequest();
 
-            if(www.isNetworkError || www.isHttpError)
+            if(www.result != UnityWebRequest.Result.Success)
             {
                 Debug.LogError(www.error);
             }
@@ -75,7 +78,7 @@ public class SongManager : MonoBehaviour
         var array = new Melanchall.DryWetMidi.Interaction.Note[notes.Count];
         notes.CopyTo(array, 0);
 
-        //further manipulation here
+        foreach (var lane in lanes) lane.SetTimeStamps(array);
 
         Invoke(nameof(StartSong), songDelayInSeconds);
     }
