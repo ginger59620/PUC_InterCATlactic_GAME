@@ -13,8 +13,9 @@ public class SongManager : MonoBehaviour
     public AudioSource audioSource;
 
     public float songDelayInSeconds;
+    public double marginOfError; //in segundos
     public int inputDelayInMilliseconds;
-
+    
     public string fileLocation; //where the midi file is 
     public float noteTime; //player reaction time
     public float noteSpawnY;
@@ -35,20 +36,56 @@ public class SongManager : MonoBehaviour
         Instance = this;
         if (Application.streamingAssetsPath.StartsWith("http://") || Application.streamingAssetsPath.StartsWith("http://"))
         {
-            ReadFromWebsite();
+           StartCoroutine(ReadFromWebsite());
         }
         else
         {
             ReadFromFile();
         }
     }
+    private IEnumerator ReadFromWebsite()
+    {
+        using (UnityWebRequest www = UnityWebRequest.Get(Application.streamingAssetsPath + "/" + fileLocation))
+        {
+            yield return www.SendWebRequest();
+
+            if(www.isNetworkError || www.isHttpError)
+            {
+                Debug.LogError(www.error);
+            }
+            else
+            {
+                byte[] results = www.downloadHandler.data;
+                using (var stream = new MemoryStream(results))
+                {
+                    midiFile = MidiFile.Read(stream);
+                    GetDataFromMidi();
+                }
+            }
+        }
+    }
     private void ReadFromFile()
     {
-        throw new NotImplementedException();
+        midiFile = MidiFile.Read(Application.streamingAssetsPath + "/" + fileLocation);
+        GetDataFromMidi();
     }
-    private void ReadFromWebsite()
+    public void GetDataFromMidi()
     {
-        throw new NotImplementedException();
+        var notes = midiFile.GetNotes();
+        var array = new Melanchall.DryWetMidi.Interaction.Note[notes.Count];
+        notes.CopyTo(array, 0);
+
+        //further manipulation here
+
+        Invoke(nameof(StartSong), songDelayInSeconds);
+    }
+    public void StartSong()
+    {
+        audioSource.Play();
+    }
+    public static double GetAudioSourceTime()
+    {
+     return (double)Instance.audioSource.timeSamples / Instance.audioSource.clip.frequency;
     }
 
     // Update is called once per frame
