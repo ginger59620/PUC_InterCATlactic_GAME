@@ -23,8 +23,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelSelect.unity
     guid: fdabe08f463d5d94a9a720434defcd7f
-  - enabled: 1
-    path: Assets/Scenes/MusicSelect.unity
-    guid: 317c5671061603a4eaf5eb9705e37b23
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

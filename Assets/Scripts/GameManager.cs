@@ -5,16 +5,16 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public AudioSource theMusic;
-    public AudioSource MissNote;
-    public AudioSource HitNote;
+   // public AudioSource Hit;
+   //public AudioSource Miss;
 
     public bool startPlaying;
 
-    public NoteScroller theBS;
+    public BeatScroller theBS;
 
     public static GameManager instance;
 
-    // Start is called before the first frame update
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         instance = this;
@@ -23,9 +23,9 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!startPlaying)
+       if(!startPlaying)
         {
-            if (Input.anyKeyDown)
+            if(Input.anyKeyDown)
             {
                 startPlaying = true;
                 theBS.hasStarted = true;
@@ -37,13 +37,12 @@ public class GameManager : MonoBehaviour
 
     public void NoteHit()
     {
-        HitNote.Play();
-        Debug.Log("Hit!");
+       // Hit.Play();
+        Debug.Log("Hit On Time");
     }
-
     public void NoteMissed()
     {
-        MissNote.Play();
-        Debug.Log("Miss!");
+       // Miss.Play();
+        Debug.Log("Missed");
     }
 }

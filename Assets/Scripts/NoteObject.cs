@@ -7,44 +7,49 @@ public class NoteObject : MonoBehaviour
     public bool canBePressed;
 
     public KeyCode keyToPress;
-
-    // Start is called before the first frame update
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(keyToPress))
+       if(Input.GetKeyDown(keyToPress))
         {
-            if (canBePressed)
+            if(canBePressed)
             {
                 gameObject.SetActive(false);
 
                 GameManager.instance.NoteHit();
             }
-
         }
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Activator")
         {
             canBePressed = true;
 
+            GameManager.instance.NoteHit();
+        }
+        else if (other.tag == "KILL")
+        {
+            Destroy(gameObject);
         }
     }
-    void OnTriggerExit2D(Collider2D other)
+    private void OnTriggerExit2D(Collider2D other)
     {
         if (other.tag == "Activator")
         {
             canBePressed = false;
 
             GameManager.instance.NoteMissed();
-
         }
+      
     }
+    
+
 }
