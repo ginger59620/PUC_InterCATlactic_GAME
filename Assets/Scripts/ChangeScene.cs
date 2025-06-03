@@ -40,6 +40,6 @@ public class ChangeScene : MonoBehaviour
     public void LevelSelect()
     {
 
-        SceneManager.LoadScene("MusicSelect");
+        SceneManager.LoadScene("LevelSelect");
     }
 }
