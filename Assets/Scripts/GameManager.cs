@@ -1,5 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -14,10 +16,18 @@ public class GameManager : MonoBehaviour
 
     public static GameManager instance;
 
+    public int currentScore;
+    public int scorePerNote = 100;
+
+    public Text scoreText;
+    public Text multiText;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         instance = this;
+
+        scoreText.text = "Score 0";
     }
 
     // Update is called once per frame
@@ -39,6 +49,9 @@ public class GameManager : MonoBehaviour
     {
        // Hit.Play();
         Debug.Log("Hit On Time");
+
+        currentScore += scorePerNote;
+        scoreText.text = "Score:" + currentScore;
     }
     public void NoteMissed()
     {
