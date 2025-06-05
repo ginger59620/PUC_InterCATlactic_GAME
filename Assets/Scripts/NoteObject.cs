@@ -22,7 +22,25 @@ public class NoteObject : MonoBehaviour
             {
                 gameObject.SetActive(false);
 
-                GameManager.instance.NoteHit();
+                //GameManager.instance.NoteHit();
+
+                if(transform.position.y > -27.54 || transform.position.y > -29.38)
+                {
+                    Debug.Log("Hit");
+                    GameManager.instance.NormalHit();
+                }
+                else if(transform.position.y > -27.73 || transform.position.y > -29.15)
+                {
+                    Debug.Log("Good Hit");
+                    GameManager.instance.GoodHit();
+                }
+                else
+                {
+                    Debug.Log("Perfect Hit!");
+                    GameManager.instance.PerfectHit();
+
+                }
+                
             }
         }
     }
