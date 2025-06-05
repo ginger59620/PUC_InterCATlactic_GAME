@@ -19,6 +19,10 @@ public class GameManager : MonoBehaviour
     public int currentScore;
     public int scorePerNote = 100;
 
+    public int currentMultiplier;
+    public int multiplierTracker;
+    public int[] multiplierThresholds;
+
     public Text scoreText;
     public Text multiText;
 
@@ -28,6 +32,7 @@ public class GameManager : MonoBehaviour
         instance = this;
 
         scoreText.text = "Score 0";
+        currentMultiplier = 1;
     }
 
     // Update is called once per frame
@@ -50,12 +55,30 @@ public class GameManager : MonoBehaviour
        // Hit.Play();
         Debug.Log("Hit On Time");
 
-        currentScore += scorePerNote;
+        if (currentMultiplier - 1 < multiplierThresholds.Length)
+        {
+            multiplierTracker++;
+
+            if (multiplierThresholds[currentMultiplier - 1] <= multiplierTracker)
+            {
+                multiplierTracker = 0;
+                currentMultiplier++;
+            }
+        }
+
+        multiText.text = "Combo: x" + currentMultiplier;
+
+        currentScore += scorePerNote * currentMultiplier;
         scoreText.text = "Score:" + currentScore;
     }
     public void NoteMissed()
     {
        // Miss.Play();
         Debug.Log("Missed");
+
+        currentMultiplier = 1;
+        multiplierTracker = 0;
+
+        multiText.text = "Combo: x" + currentMultiplier;
     }
 }

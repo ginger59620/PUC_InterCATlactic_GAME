@@ -5285,7 +5285,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.23411156}
+  m_Offset: {x: 0, y: 0.08022323}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -5295,7 +5295,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.47, y: 1.3517768}
+  m_Size: {x: 2.47, y: 1.9804466}
   m_EdgeRadius: 0
 --- !u!1 &478375102
 GameObject:
@@ -6653,7 +6653,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.3724504}
+  m_Offset: {x: 0, y: 0.09905183}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6663,7 +6663,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.86, y: 1.6950992}
+  m_Size: {x: 1.86, y: 2.6381037}
   m_EdgeRadius: 0
 --- !u!1 &602900187
 GameObject:
@@ -11087,7 +11087,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.36180878}
+  m_Offset: {x: 0, y: 0.078259826}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -11097,7 +11097,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.87, y: 1.6663828}
+  m_Size: {x: 1.87, y: 2.54652}
   m_EdgeRadius: 0
 --- !u!1 &1159151589
 GameObject:
@@ -12238,7 +12238,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.3086015}
+  m_Offset: {x: 0, y: 0.08955541}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -12248,7 +12248,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.52, y: 1.3127971}
+  m_Size: {x: 2.52, y: 2.1091113}
   m_EdgeRadius: 0
 --- !u!1 &1224884892
 GameObject:
@@ -17663,6 +17663,9 @@ MonoBehaviour:
   theBS: {fileID: 1047837964}
   currentScore: 0
   scorePerNote: 100
+  currentMultiplier: 1
+  multiplierTracker: 0
+  multiplierThresholds: 040000000800000010000000
   scoreText: {fileID: 1903053080}
   multiText: {fileID: 1438757836}
 --- !u!4 &1679815380
