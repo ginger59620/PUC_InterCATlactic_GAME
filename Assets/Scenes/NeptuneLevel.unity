@@ -203,6 +203,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &11334075
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -342,6 +346,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &12892354
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -481,6 +489,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &62309576
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -620,6 +632,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &75955250
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -759,6 +775,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &100176609
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -898,6 +918,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &102983408
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1037,6 +1061,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &105734657
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1176,6 +1204,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &123109446
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1315,6 +1347,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &137566036
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1454,6 +1490,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &143596934
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1593,6 +1633,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &147209133
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1732,6 +1776,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &155703297
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1871,6 +1919,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &163213698
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2010,6 +2062,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &189042628
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2149,6 +2205,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &190310171
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2288,6 +2348,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &218757954
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2427,6 +2491,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &219200587
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2566,6 +2634,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &228359867
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2834,6 +2906,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &252002318
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2973,6 +3049,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &258817333
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3112,6 +3192,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &269417151
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3251,6 +3335,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &278520205
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3390,6 +3478,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &287257121
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3597,6 +3689,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &323780743
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3736,6 +3832,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &357324144
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3875,6 +3975,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &360605714
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4014,6 +4118,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &378482228
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4240,6 +4348,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &397493548
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4379,6 +4491,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &399491232
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4518,6 +4634,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &401571737
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4657,6 +4777,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &408743751
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4796,6 +4920,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &420879039
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4935,6 +5063,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &423638302
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5212,7 +5344,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 5d06a831476f1cf4da75758eca82be49, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5381,6 +5513,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &478375106
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5520,6 +5656,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &485347070
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5659,6 +5799,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &490044571
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5876,6 +6020,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &520166394
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6015,6 +6163,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &534156790
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6154,6 +6306,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &535002987
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6293,6 +6449,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &543031660
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6432,6 +6592,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &557493135
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6580,7 +6744,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 24e236bbd2cf79542a93ed133b20b44e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6784,6 +6948,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &619727195
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6923,6 +7091,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &631654715
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7062,6 +7234,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &656047251
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7201,6 +7377,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &728610882
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7340,6 +7520,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &732189090
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7479,6 +7663,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &739294532
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7618,6 +7806,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &740796323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7757,6 +7949,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &744721291
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7896,6 +8092,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &798882423
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8035,6 +8235,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &825058177
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8174,6 +8378,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &890807681
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8313,6 +8521,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &897778784
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8452,6 +8664,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &900373002
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8591,6 +8807,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &908024390
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8730,6 +8950,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &915721025
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8869,6 +9093,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &922502317
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9008,6 +9236,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &936031415
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9147,6 +9379,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &937411523
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9286,6 +9522,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &941812514
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9425,6 +9665,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &968617634
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9564,6 +9808,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &979920751
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9703,6 +9951,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &992081955
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9842,6 +10094,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1003017505
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9981,6 +10237,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1032462250
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10310,6 +10570,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1071822589
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10449,6 +10713,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1076352721
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10588,6 +10856,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1109100585
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10727,6 +10999,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1110153184
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10866,6 +11142,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1116190477
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11014,7 +11294,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 7b082d9acb8ebd240a21fb8ba6da77ab, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11183,6 +11463,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1159151593
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11322,6 +11606,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1162838804
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11461,6 +11749,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1166869867
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11600,6 +11892,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1180450388
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11739,6 +12035,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1190990363
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11878,6 +12178,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1196325432
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12017,6 +12321,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1202780443
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12165,7 +12473,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: df687381d99b4f54dbb45d14b96e91f7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12334,6 +12642,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1224884896
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12473,6 +12785,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1230394785
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12612,6 +12928,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1232381289
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12751,6 +13071,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1270910752
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12890,6 +13214,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1278394547
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13029,6 +13357,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1280395313
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13168,6 +13500,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1288209086
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13307,6 +13643,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1291523755
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13446,6 +13786,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1300164199
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13585,6 +13929,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1300352686
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13724,6 +14072,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1334965227
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13863,6 +14215,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1338550741
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14002,6 +14358,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1346761957
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14141,6 +14501,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1352561654
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14280,6 +14644,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1387700190
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14419,6 +14787,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1389074913
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14558,6 +14930,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1407970570
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14697,6 +15073,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1436253839
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14915,6 +15295,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1448988628
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15054,6 +15438,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1467686174
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15385,6 +15773,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1472331384
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15524,6 +15916,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1481021783
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15663,6 +16059,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1499002302
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15802,6 +16202,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1510419187
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15941,6 +16345,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1511728837
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16080,6 +16488,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1532048571
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16219,6 +16631,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1543224977
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16358,6 +16774,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1554054695
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16497,6 +16917,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1566639080
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16740,6 +17164,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1574448625
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16879,6 +17307,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1592775239
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17018,6 +17450,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1593664150
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17157,6 +17593,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1605820180
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17296,6 +17736,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1623133405
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17435,6 +17879,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1641168300
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17574,6 +18022,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1647295858
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17663,6 +18115,8 @@ MonoBehaviour:
   theBS: {fileID: 1047837964}
   currentScore: 0
   scorePerNote: 100
+  scorePerSickNote: 125
+  scorePerBangerNote: 150
   currentMultiplier: 1
   multiplierTracker: 0
   multiplierThresholds: 040000000800000010000000
@@ -17767,6 +18221,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1684229889
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17906,6 +18364,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1692929445
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18045,6 +18507,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1705152379
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18184,6 +18650,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1721189971
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18323,6 +18793,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1739528517
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18462,6 +18936,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1775690434
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18601,6 +19079,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1798244946
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18740,6 +19222,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1805102116
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18879,6 +19365,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1810470420
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19018,6 +19508,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1831210944
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19294,6 +19788,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1873141461
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19433,6 +19931,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1874020508
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19572,6 +20074,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1877160616
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19711,6 +20217,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1900631075
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19929,6 +20439,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1904763372
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20068,6 +20582,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1904775418
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20207,6 +20725,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1915823535
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20346,6 +20868,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1952758000
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20485,6 +21011,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1994763980
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20624,6 +21154,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &1997649644
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20763,6 +21297,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2006973303
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20902,6 +21440,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2011337032
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21041,6 +21583,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2014099341
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21180,6 +21726,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2016046403
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21319,6 +21869,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2037836190
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21458,6 +22012,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 107
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2087410610
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21597,6 +22155,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 108
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2088330072
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21736,6 +22298,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2094031428
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21875,6 +22441,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2103584101
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22048,6 +22618,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 97
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2136708313
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22187,6 +22761,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 115
+  coolEffect: {fileID: 3163426307119150078, guid: 956617f144f62b54bba1ce73c5abc2b7, type: 3}
+  sickEffect: {fileID: 1470446233923072290, guid: 6143d7d366e0ea04dbde6740e439c2cd, type: 3}
+  bangerEffect: {fileID: 481700655907197496, guid: 563301bf3980e5d4d89d3334ee57d633, type: 3}
+  yikesEffect: {fileID: 5473870083203665290, guid: 53acad122aa3bd64386a3508dc9c3d78, type: 3}
 --- !u!212 &2144012520
 SpriteRenderer:
   m_ObjectHideFlags: 0

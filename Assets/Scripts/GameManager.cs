@@ -18,8 +18,8 @@ public class GameManager : MonoBehaviour
 
     public int currentScore;
     public int scorePerNote = 100;
-    public int scorePerGoodNote = 125;
-    public int scorePerPerfectNote = 150;
+    public int scorePerSickNote = 125;
+    public int scorePerBangerNote = 150;
 
     public int currentMultiplier;
     public int multiplierTracker;
@@ -73,19 +73,19 @@ public class GameManager : MonoBehaviour
         //currentScore += scorePerNote * currentMultiplier;
         scoreText.text = "Score:" + currentScore;
     }
-    public void NormalHit()
+    public void CoolHit()
     {
         currentScore += scorePerNote * currentMultiplier;
         NoteHit();
     }
-    public void GoodHit()
+    public void SickHit()
     {
-        currentScore += scorePerGoodNote * currentMultiplier;
+        currentScore += scorePerSickNote * currentMultiplier;
         NoteHit();
     }
-    public void PerfectHit()
+    public void BangerHit()
     {
-        currentScore += scorePerPerfectNote * currentMultiplier;
+        currentScore += scorePerBangerNote * currentMultiplier;
         NoteHit();
     }
     public void NoteMissed()

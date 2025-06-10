@@ -7,6 +7,9 @@ public class NoteObject : MonoBehaviour
     public bool canBePressed;
 
     public KeyCode keyToPress;
+
+    public GameObject coolEffect, sickEffect, bangerEffect, yikesEffect;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -26,19 +29,21 @@ public class NoteObject : MonoBehaviour
 
                 if(transform.position.y > -27.54 || transform.position.y > -29.38)
                 {
-                    Debug.Log("Hit");
-                    GameManager.instance.NormalHit();
+                    //COOL HIT
+                    GameManager.instance.CoolHit();
+                    Instantiate(coolEffect, transform.position, coolEffect.transform.rotation);
                 }
-                else if(transform.position.y > -27.73 || transform.position.y > -29.15)
+                else if(transform.position.y > -28 || transform.position.y > -29)
                 {
-                    Debug.Log("Good Hit");
-                    GameManager.instance.GoodHit();
+                   //SICK HIT
+                    GameManager.instance.SickHit();
+                    Instantiate(sickEffect, transform.position, sickEffect.transform.rotation);
                 }
-                else
+                else if(transform.position.y > -28.28)
                 {
-                    Debug.Log("Perfect Hit!");
-                    GameManager.instance.PerfectHit();
-
+                    //BANGER HIT
+                    GameManager.instance.BangerHit();
+                    Instantiate(bangerEffect, transform.position, bangerEffect.transform.rotation);
                 }
                 
             }
@@ -65,6 +70,7 @@ public class NoteObject : MonoBehaviour
             canBePressed = false;
 
             GameManager.instance.NoteMissed();
+            Instantiate(yikesEffect, transform.position, yikesEffect.transform.rotation);
         }
       
     }
