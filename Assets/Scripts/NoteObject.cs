@@ -10,6 +10,8 @@ public class NoteObject : MonoBehaviour
 
     public GameObject coolEffect, sickEffect, bangerEffect, yikesEffect;
 
+    public Transform effectSpawnPoint;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -31,19 +33,19 @@ public class NoteObject : MonoBehaviour
                 {
                     //COOL HIT
                     GameManager.instance.CoolHit();
-                    Instantiate(coolEffect, transform.position, coolEffect.transform.rotation);
+                    Instantiate(coolEffect, effectSpawnPoint.position, coolEffect.transform.rotation);
                 }
                 else if(transform.position.y > -28 || transform.position.y > -29)
                 {
                    //SICK HIT
                     GameManager.instance.SickHit();
-                    Instantiate(sickEffect, transform.position, sickEffect.transform.rotation);
+                    Instantiate(sickEffect, effectSpawnPoint.position, sickEffect.transform.rotation);
                 }
                 else if(transform.position.y > -28.28)
                 {
                     //BANGER HIT
                     GameManager.instance.BangerHit();
-                    Instantiate(bangerEffect, transform.position, bangerEffect.transform.rotation);
+                    Instantiate(bangerEffect, effectSpawnPoint.position, bangerEffect.transform.rotation);
                 }
                 
             }
@@ -70,7 +72,7 @@ public class NoteObject : MonoBehaviour
             canBePressed = false;
 
             GameManager.instance.NoteMissed();
-            Instantiate(yikesEffect, transform.position, yikesEffect.transform.rotation);
+            Instantiate(yikesEffect, effectSpawnPoint.position, yikesEffect.transform.rotation);
         }
       
     }

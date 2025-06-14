@@ -28,6 +28,12 @@ public class GameManager : MonoBehaviour
     public Text scoreText;
     public Text multiText;
 
+    public float totalNotes;
+    public float coolHits;
+    public float sickHits;
+    public float bangerHits;
+    public float yikesHits;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -35,6 +41,8 @@ public class GameManager : MonoBehaviour
 
         scoreText.text = "Score 0";
         currentMultiplier = 1;
+
+        totalNotes = FindObjectsOfType<NoteObject>().Length;
     }
 
     // Update is called once per frame
@@ -77,16 +85,22 @@ public class GameManager : MonoBehaviour
     {
         currentScore += scorePerNote * currentMultiplier;
         NoteHit();
+
+        coolHits++;
     }
     public void SickHit()
     {
         currentScore += scorePerSickNote * currentMultiplier;
         NoteHit();
+
+        sickHits++;
     }
     public void BangerHit()
     {
         currentScore += scorePerBangerNote * currentMultiplier;
         NoteHit();
+
+        bangerHits++;
     }
     public void NoteMissed()
     {
@@ -97,5 +111,7 @@ public class GameManager : MonoBehaviour
         multiplierTracker = 0;
 
         multiText.text = "Combo: x" + currentMultiplier;
+
+        yikesHits++;
     }
 }
