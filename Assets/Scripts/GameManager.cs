@@ -34,6 +34,9 @@ public class GameManager : MonoBehaviour
     public float bangerHits;
     public float yikesHits;
 
+    public GameObject resultsScreen; //how to make the result window pop up
+    public Text totalhitsText, finalscoreText, rankText;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -56,6 +59,18 @@ public class GameManager : MonoBehaviour
                 theBS.hasStarted = true;
 
                 theMusic.Play();
+            }
+        }
+        else
+        {
+            if(!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
+            {
+                resultsScreen.SetActive(true);
+
+                float totalHits = coolHits + sickHits + bangerHits;
+                totalhitsText.text = totalHits.ToString();
+
+
             }
         }
     }
