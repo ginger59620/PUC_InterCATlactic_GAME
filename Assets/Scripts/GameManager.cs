@@ -51,9 +51,9 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       if(!startPlaying)
+        if (!startPlaying)
         {
-            if(Input.anyKeyDown)
+            if (Input.anyKeyDown)
             {
                 startPlaying = true;
                 theBS.hasStarted = true;
@@ -63,13 +63,43 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            if(!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
+            if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
             {
                 resultsScreen.SetActive(true);
 
                 float totalHits = coolHits + sickHits + bangerHits;
                 totalhitsText.text = totalHits.ToString();
 
+                string rankVal = "F";
+
+                if (totalHits > 134)
+                {
+                    rankVal = "D";
+
+                    if (totalHits > 184)
+                    {
+                        rankVal = "C";
+
+                        if (totalHits > 284)
+                        {
+                            rankVal = "B";
+
+                            if (totalHits > 384)
+                            {
+                                rankVal = "A";
+
+                                if (totalHits > 434)
+                                {
+                                    rankVal = "S";
+                                }
+                            }
+                        }
+                    }
+                }
+
+                rankText.text = rankVal;
+
+                finalscoreText.text = currentScore.ToString();
 
             }
         }
