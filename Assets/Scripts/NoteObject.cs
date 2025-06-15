@@ -29,7 +29,7 @@ public class NoteObject : MonoBehaviour
 
                 //GameManager.instance.NoteHit();
 
-                if(transform.position.y > -27.54 || transform.position.y > -29.38)
+                if(transform.position.y > -27 || transform.position.y > -29.38)
                 {
                     //COOL HIT
                     GameManager.instance.CoolHit();
