@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BANGER_0: -5852123391071693900
+      BANGER_1: 402733080830807872
+      BANGER_2: -145857973734418740
+      BANGER_3: -1153626607106340316
+      BANGER_4: 8483892939348041300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

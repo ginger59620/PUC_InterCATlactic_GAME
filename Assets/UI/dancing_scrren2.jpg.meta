@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dancing_scrren2_0: 2910324530833825004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

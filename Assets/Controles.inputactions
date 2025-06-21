@@ -1,0 +1,46 @@
+{
+    "name": "Controles",
+    "maps": [
+        {
+            "name": "KeyNotes",
+            "id": "d21f960b-ac16-4a87-8425-e3f6d50bbe50",
+            "actions": [
+                {
+                    "name": "touchInput",
+                    "type": "PassThrough",
+                    "id": "75d17b47-bd87-4380-8edc-1fb7deec5416",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5a9e4993-e7db-4f07-a0a9-89c65acdfb0f",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "touchInput",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "KeyNotesControles",
+            "bindingGroup": "KeyNotesControles",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

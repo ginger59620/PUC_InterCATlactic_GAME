@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UranusLevel_0: 366509034688353920
+      UranusLevel_1: 195599145412340780
+      UranusLevel_2: -3387742760878610167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
