@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EffectObject : MonoBehaviour
 {
-    public float lifetime = 1f;
+   /* public float lifetime = 1f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -14,5 +14,5 @@ public class EffectObject : MonoBehaviour
     void Update()
     {
         Destroy(gameObject, lifetime); 
-    }
+    }*/
 }

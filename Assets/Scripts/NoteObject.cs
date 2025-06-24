@@ -13,7 +13,7 @@ public class NoteObject : MonoBehaviour
     public Transform effectSpawnPoint;
 
     public AudioSource hitHits;
-    public AudioSource missHits;
+   
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -71,7 +71,7 @@ public class NoteObject : MonoBehaviour
         if (other.tag == "Activator")
         {
             canBePressed = false;
-            missHits.Play();
+          
 
             GameManager.instance.NoteMissed();
             Instantiate(yikesEffect, effectSpawnPoint.position, yikesEffect.transform.rotation);

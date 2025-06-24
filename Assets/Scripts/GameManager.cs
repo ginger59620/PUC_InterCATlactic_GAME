@@ -25,6 +25,7 @@ public class GameManager : MonoBehaviour
 
     public Text scoreText;
     public Text multiText;
+    public GameObject tapText;
 
     public float totalNotes;
     public float coolHits;
@@ -33,6 +34,7 @@ public class GameManager : MonoBehaviour
     public float yikesHits;
 
     public GameObject resultsScreen; //how to make the result window pop up
+    public GameObject loseresultScreen;
     public Text totalhitsText, finalscoreText, rankText;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -57,13 +59,16 @@ public class GameManager : MonoBehaviour
                 theBS.hasStarted = true;
 
                 theMusic.Play();
+
+                if (tapText != null)
+                    tapText.SetActive(false);
             }
         }
         else
         {
             if (!theMusic.isPlaying && !resultsScreen.activeInHierarchy)
             {
-                resultsScreen.SetActive(true);
+                loseresultScreen.SetActive(true);
 
                 float totalHits = coolHits + sickHits + bangerHits;
                 totalhitsText.text = totalHits.ToString();
@@ -72,22 +77,27 @@ public class GameManager : MonoBehaviour
 
                 if (totalHits > 134)
                 {
+                    resultsScreen.SetActive(true);
                     rankVal = "D";
 
                     if (totalHits > 184)
                     {
+                        resultsScreen.SetActive(true);
                         rankVal = "C";
 
                         if (totalHits > 284)
                         {
+                            resultsScreen.SetActive(true);
                             rankVal = "B";
 
                             if (totalHits > 384)
                             {
+                                resultsScreen.SetActive(true);
                                 rankVal = "A";
 
                                 if (totalHits > 434)
                                 {
+                                    resultsScreen.SetActive(true);
                                     rankVal = "S";
                                 }
                             }
