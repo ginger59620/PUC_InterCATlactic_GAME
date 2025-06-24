@@ -24,8 +24,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Cutscene.unity
     guid: e7db448d1d800d44387412fb985699a2
   - enabled: 1
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: 702b2e5946bc50d4b99c6e6dae4966fa
+  - enabled: 1
     path: Assets/Scenes/VisualNovel1.unity
     guid: c518235a3ea3c85419a8c3793c869372
+  - enabled: 1
+    path: Assets/Scenes/UranusLevel1.unity
+    guid: 71e2eb9d18ed772479bc396313b22218
+  - enabled: 1
+    path: Assets/Scenes/UranusLevel2.unity
+    guid: 1629dd775accdaa4a981d9dfa1cfbff0
   - enabled: 1
     path: Assets/Scenes/Options.unity
     guid: 46b2fdbe26b335f4b8c3cdecbb5cf7ae
