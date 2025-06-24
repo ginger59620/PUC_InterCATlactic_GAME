@@ -15,6 +15,11 @@ public class SoundManager : MonoBehaviour
             PlayerPrefs.SetFloat("musicVolume", 1);
             Load();
         }
+       else
+        {
+            Load();
+        }
+
     }
 
     // Update is called once per frame

@@ -12,6 +12,9 @@ public class NoteObject : MonoBehaviour
 
     public Transform effectSpawnPoint;
 
+    public AudioSource hitHits;
+    public AudioSource missHits;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -26,10 +29,11 @@ public class NoteObject : MonoBehaviour
             if(canBePressed)
             {
                 gameObject.SetActive(false);
+                hitHits.Play();
 
                 //GameManager.instance.NoteHit();
 
-                if(transform.position.y > -27 || transform.position.y > -29.38)
+                if (transform.position.y > -27 || transform.position.y > -29.38)
                 {
                     //COOL HIT
                     GameManager.instance.CoolHit();
@@ -60,16 +64,14 @@ public class NoteObject : MonoBehaviour
 
             GameManager.instance.NoteHit();
         }
-        else if (other.tag == "KILL")
-        {
-            Destroy(gameObject);
-        }
+      
     }
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.tag == "Activator")
         {
             canBePressed = false;
+            missHits.Play();
 
             GameManager.instance.NoteMissed();
             Instantiate(yikesEffect, effectSpawnPoint.position, yikesEffect.transform.rotation);

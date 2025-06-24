@@ -42,4 +42,8 @@ public class ChangeScene : MonoBehaviour
 
         SceneManager.LoadScene("LevelSelect");
     }
+    public void Cutscene()
+    {
+        SceneManager.LoadScene("Cutscene");
+    }
 }

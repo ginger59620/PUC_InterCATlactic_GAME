@@ -417,6 +417,7 @@ GameObject:
   - component: {fileID: 609809331}
   - component: {fileID: 609809330}
   - component: {fileID: 609809329}
+  - component: {fileID: 609809332}
   m_Layer: 5
   m_Name: Save
   m_TagString: Untagged
@@ -487,7 +488,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 609809330}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 609809332}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: NeptuneLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &609809330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -526,6 +539,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 609809327}
   m_CullTransparentMesh: 1
+--- !u!114 &609809332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 609809327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55266547bacf2c4c8ecba4705d16c45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &835164705
 GameObject:
   m_ObjectHideFlags: 0
@@ -798,6 +823,7 @@ RectTransform:
   - {fileID: 1194855070}
   - {fileID: 609809328}
   - {fileID: 1795125252}
+  - {fileID: 1548129008}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1431,12 +1457,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1548129005}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -960, y: -540, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1093128524}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1574383747
 GameObject:
@@ -1707,6 +1733,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1795125252}
   - component: {fileID: 1795125253}
+  - component: {fileID: 1795125254}
   m_Layer: 5
   m_Name: Slider
   m_TagString: Untagged
@@ -1786,7 +1813,32 @@ MonoBehaviour:
   m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1795125254}
+        m_TargetAssemblyTypeName: SoundManager, Assembly-CSharp
+        m_MethodName: ChangeVolume
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1795125254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1795125251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d9e64d5be78ba1408fc8131de3722bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeSlider: {fileID: 1795125253}
 --- !u!1 &1882980175
 GameObject:
   m_ObjectHideFlags: 0
@@ -1911,7 +1963,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Save
+  m_text: 'Text
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c7088e24d86d364abb60956a218676e, type: 2}
   m_sharedMaterial: {fileID: 7576090361805937704, guid: 3c7088e24d86d364abb60956a218676e, type: 2}
@@ -2221,5 +2275,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 1114598589}
   - {fileID: 1093128524}
-  - {fileID: 1548129008}
   - {fileID: 1958454559}

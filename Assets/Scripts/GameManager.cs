@@ -7,9 +7,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public AudioSource theMusic;
-   // public AudioSource Hit;
-   //public AudioSource Miss;
-
+    
     public bool startPlaying;
 
     public BeatScroller theBS;
@@ -107,7 +105,7 @@ public class GameManager : MonoBehaviour
 
     public void NoteHit()
     {
-       // Hit.Play();
+      
         Debug.Log("Hit On Time");
 
         if (currentMultiplier - 1 < multiplierThresholds.Length)
@@ -148,10 +146,7 @@ public class GameManager : MonoBehaviour
         bangerHits++;
     }
     public void NoteMissed()
-    {
-       // Miss.Play();
-        Debug.Log("Missed");
-
+    { 
         currentMultiplier = 1;
         multiplierTracker = 0;
 
