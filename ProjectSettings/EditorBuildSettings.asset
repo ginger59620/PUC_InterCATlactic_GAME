@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/Scenes/TutorialLevel.unity
     guid: 702b2e5946bc50d4b99c6e6dae4966fa
   - enabled: 1
-    path: Assets/Scenes/VisualNovel1.unity
+    path: Assets/Scenes/VisualNovel2.unity
     guid: c518235a3ea3c85419a8c3793c869372
   - enabled: 1
     path: Assets/Scenes/UranusLevel1.unity
