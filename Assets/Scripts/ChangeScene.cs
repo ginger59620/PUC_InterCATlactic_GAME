@@ -11,6 +11,7 @@ public class ChangeScene : MonoBehaviour
     {
         SceneManager.LoadScene("TitleScrene");
     }
+    //MENUS
     public void ModeSelect()
     {
         SceneManager.LoadScene("ModeSelect");
@@ -20,13 +21,12 @@ public class ChangeScene : MonoBehaviour
 
         SceneManager.LoadScene("Options");
     }
-
     public void FreeMode()
     {
 
         SceneManager.LoadScene("FreeMode");
     }
-
+    //Gameplay segments
     public void NeptuneLevel()
     {
 
@@ -37,6 +37,17 @@ public class ChangeScene : MonoBehaviour
 
         SceneManager.LoadScene("TutorialLevel");
     }
+    public void UranusLevel1()
+    {
+
+        SceneManager.LoadScene("UranusLevel1");
+    }
+    public void UranusLevel2()
+    {
+
+        SceneManager.LoadScene("UranusLevel2");
+    }
+    //Selection menus
     public void MusicSelect()
     {
 
@@ -47,6 +58,7 @@ public class ChangeScene : MonoBehaviour
 
         SceneManager.LoadScene("LevelSelect");
     }
+    //Visual Novel Segments
     public void Cutscene()
     {
         SceneManager.LoadScene("Cutscene");

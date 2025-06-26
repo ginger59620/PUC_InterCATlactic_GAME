@@ -12,20 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/ModeSelect.unity
     guid: 902f0ac770b868445a92426a04ea2bc8
   - enabled: 1
-    path: Assets/Scenes/FreeMode.unity
-    guid: c017438d41fb06e4c88b7a17503bd10c
-  - enabled: 1
     path: Assets/Scenes/LevelSelect.unity
     guid: fdabe08f463d5d94a9a720434defcd7f
   - enabled: 1
-    path: Assets/Scenes/NeptuneLevel.unity
-    guid: 35004ec73b6caff4387fc7773b5757f1
-  - enabled: 1
     path: Assets/Scenes/Cutscene.unity
     guid: e7db448d1d800d44387412fb985699a2
-  - enabled: 1
-    path: Assets/Scenes/TutorialLevel.unity
-    guid: 702b2e5946bc50d4b99c6e6dae4966fa
   - enabled: 1
     path: Assets/Scenes/VisualNovel1.unity
     guid: 01da6601399b2f34ea3ae9087b399230
@@ -36,11 +27,20 @@ EditorBuildSettings:
     path: Assets/Scenes/VisualNovel3.unity
     guid: 7966cafc6e9ee5f4f985f958ff3f2e37
   - enabled: 1
+    path: Assets/Scenes/FreeMode.unity
+    guid: c017438d41fb06e4c88b7a17503bd10c
+  - enabled: 1
+    path: Assets/Scenes/NeptuneLevel.unity
+    guid: 35004ec73b6caff4387fc7773b5757f1
+  - enabled: 1
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: 702b2e5946bc50d4b99c6e6dae4966fa
+  - enabled: 1
     path: Assets/Scenes/UranusLevel1.unity
-    guid: 71e2eb9d18ed772479bc396313b22218
+    guid: c1437832ead714b40a00ce54c2af8024
   - enabled: 1
     path: Assets/Scenes/UranusLevel2.unity
-    guid: 1629dd775accdaa4a981d9dfa1cfbff0
+    guid: 5ba3935d2f4c7714bbdb5943ed6b9225
   - enabled: 1
     path: Assets/Scenes/Options.unity
     guid: 46b2fdbe26b335f4b8c3cdecbb5cf7ae
