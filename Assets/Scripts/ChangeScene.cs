@@ -32,6 +32,11 @@ public class ChangeScene : MonoBehaviour
 
         SceneManager.LoadScene("NeptuneLevel");
     }
+    public void TutorialLevel()
+    {
+
+        SceneManager.LoadScene("TutorialLevel");
+    }
     public void MusicSelect()
     {
 
@@ -45,5 +50,17 @@ public class ChangeScene : MonoBehaviour
     public void Cutscene()
     {
         SceneManager.LoadScene("Cutscene");
+    }
+    public void VisualNovel1()
+    {
+        SceneManager.LoadScene("VisualNovel1");
+    }
+    public void VisualNovel2()
+    {
+        SceneManager.LoadScene("VisualNovel2");
+    }
+    public void VisualNovel3()
+    {
+        SceneManager.LoadScene("VisualNovel3");
     }
 }
